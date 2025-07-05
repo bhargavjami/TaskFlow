@@ -1,5 +1,7 @@
 # 📝 TaskFlow – MERN Stack Task Manager
 
+![TaskFlow UI](client/public/taskflow_screenshot.png)
+
 **TaskFlow** is a full-stack task management application built using the MERN stack (MongoDB, Express, React, Node.js).  
 It allows users to add, view, and delete tasks in real time with a simple and responsive UI.
 
